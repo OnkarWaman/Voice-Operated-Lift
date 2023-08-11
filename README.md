@@ -1,2 +1,2 @@
-# Voice_Operated_Lift
+# Voice Operated Lift
 This is our Final year project
